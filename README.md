@@ -1,4 +1,5 @@
 # DiceGame
+[UML](UML.png)
 ## German
 ### Funktionsbechreibung
 2 Spieler, welche ihren Namen selber eingeben können müssen in 6 Runden möglichst viele Punkte durch das Würfeln eines digitalen Würfels erzielen. Pro Runde darf jeder Spieler maximal 5 Mal würfeln. Sobald ein Spieler jedoch eine ungerade Zahl würfelt verliert er alle Punkte der Runde. Nach jedem mal würfeln wird der Spieler gewechselt. Es besteht die Möglichkeit die Runde vorzeitig abzubrechen um die bereits erzielten Punkte zu sichern. Der Spieler, welche die meisten Punkte nach 6 Runden erzielt gewinnt das Spiel.
