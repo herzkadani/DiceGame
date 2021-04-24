@@ -1,4 +1,5 @@
 # DiceGame
+## UML diagram
 ![UML](https://github.com/herzkadani/DiceGame/blob/d1979b779647626061514c1bce4eeb0b7eea6ab4/UML.png)
 ## German
 ### Funktionsbechreibung
