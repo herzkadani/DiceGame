@@ -18,7 +18,7 @@ Die Player-Klasse dient hauptsächlich als “Behälter” mit dem alle Werte, w
 Des Weiteren werden in der Player-Klasse die Zwischen- und Gesamtpunkte jedes Spielers. Die Information in welcher Runde sich der jeweilige Spieler befindet wird ebenfalls in der Player-Klasse verwaltet. Es besteht die Möglichkeit über eine Methode alle Werte in den Anfangszustand zu versetzen.
 ## English
 ### Functional description
-2 players, who can enter their name themselves, must score as many points as possible in 6 rounds by rolling a digital dcie. Each player may roll the dice a maximum of 5 times per round. However, as soon as a player rolls an odd number, he loses all points of the round. After each roll of the dice, the player is changed. It is possible to stop the round early to save the points already scored. The player who scores the most points after 6 rounds wins the game.
+2 players, who can enter their name themselves, must score as many points as possible in 6 rounds by rolling a digital dice. Each player may roll the dice a maximum of 5 times per round. However, as soon as a player rolls an odd number, he loses all points of the round. After each roll of the dice, the player is changed. It is possible to stop the round early to save the points already scored. The player who scores the most points after 6 rounds wins the game.
 The game can be played several times in a row. To restart the game, just press the "START GAME" button again. 
 ### Class description
 #### Starter
