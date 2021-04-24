@@ -14,10 +14,10 @@ public class Game {
 	}
 
 	public Player rollDice() {
-		int diceValue = (int) (Math.random() * 6) + 1; // Zahl würfeln
+		int diceValue = (int) (Math.random() * 6) + 1; // Zahl wÃ¼rfeln
 		if (switcher == 1) { // Wenn Spieler 1 an der Reihe ist
 
-			if (diceValue % 2 == 0) { // schauen ob gewürfelte Zahl gerade ist
+			if (diceValue % 2 == 0) { // schauen ob gewÃ¼rfelte Zahl gerade ist
 				player1.even(labelCountP1, diceValue);
 				labelCountP1++;
 				if (labelCountP1 > 5) {
@@ -34,7 +34,7 @@ public class Game {
 			return player1;
 		} else {// Wenn Spieler 2 an der Reihe ist
 
-			if (diceValue % 2 == 0) { // schauen ob gewürfelte Zahl gerade ist
+			if (diceValue % 2 == 0) { // schauen ob gewÃ¼rfelte Zahl gerade ist
 				player2.even(labelCountP2, diceValue);
 				labelCountP2++;
 				if (labelCountP2 > 5) {
