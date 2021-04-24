@@ -19,7 +19,7 @@ public class DiceGUI extends JFrame implements ActionListener {
 	private JLabel p1NameLabel = new JLabel();
 	private JLabel p2NameLabel = new JLabel();
 	RoundPanel panelArray[] = new RoundPanel[12];
-	private JButton buttonDice = new JButton("WÜRFELN");
+	private JButton buttonDice = new JButton("WÃœRFELN");
 	private JButton buttonSave = new JButton("PUNKTE SICHERN");
 	private JLabel messageLabel = new JLabel();
 	private JLabel moveIndicatorP1 = new JLabel();
